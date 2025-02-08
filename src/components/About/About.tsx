@@ -16,20 +16,18 @@ const About = (props: Props) => {
             <div className="col-lg-6">
               <div className="about-content">
                 <h4>
-                  WE ARE ON EXPERT <br />
-                  THIS FIELD BUILDINGS
+                CONSTRUIMOS EL FUTURO<br />
+                 EDIFICAMOS CONFIANZA
                   <br />
-                  SOLUTIONS SINCE 1974.
+                  Desde 2018.
                 </h4>
                 <p>
-                  Void gathering midst together you{`'`}re shall. Beast set he{" "}
+                En Edificando Ingenieros S.A.S., transformamos ideas en estructuras sólidas con innovación
                   <br />
-                  likeness spirit winged two all fourth they{`'`}re gathered
-                  <br /> seasons very may heaven saying. Fly image th
+                calidad y compromiso.
+                  <br /> Más que construir, creamos espacios que perduran.
                 </p>
-                <a className="main_btn" href="#">
-                  learn more
-                </a>
+                
               </div>
             </div>
           </div>

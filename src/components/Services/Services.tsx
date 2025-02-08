@@ -8,8 +8,8 @@ const Services = (props: Props) => {
     <section className="service-area area-padding">
         <div className="container">
           <div className="area-heading">
-            <h3 className="line">What We Provide</h3>
-            <p>Together female let signs for for fish fowl may first.</p>
+            <h3 className="line">Lo que Ofrecemos</h3>
+            <p>Construcción de calidad, diseño innovador y mantenimiento confiable para tus proyectos.</p>
           </div>
           <div className="row">
             <div className="col-md-6 col-xl-3">
@@ -19,11 +19,9 @@ const Services = (props: Props) => {
                   
                 </div>
                 <div className="service-content">
-                  <h5>Architecture Design</h5>
+                  <h5>Diseño Arquitectónico</h5>
                   <p>
-                    You{`'`}re which creepeth were yielding kind, divide sixten
-                    po gatherin all first fill Seed wherein life. Years one
-                    fifth{" "}
+                  Creamos espacios funcionales y estéticamente atractivos, combinando innovación y precisión en cada proyecto.
                   </p>
                 </div>
               </div>
@@ -35,11 +33,9 @@ const Services = (props: Props) => {
                   <Image width={83} height={83} src="/images/i2.png.webp" alt="" />
                 </div>
                 <div className="service-content">
-                  <h5>Building Construction</h5>
+                  <h5>Construcción de Edificios</h5>
                   <p>
-                    You{`'`}re which creepeth were yielding kind, divide sixten
-                    po gatherin all first fill Seed wherein life. Years one
-                    fifth{" "}
+                  Desarrollamos estructuras seguras y eficientes, garantizando calidad en cada fase del proceso constructivo.
                   </p>
                 </div>
               </div>
@@ -51,11 +47,9 @@ const Services = (props: Props) => {
                   <Image width={53} height={92} src="/images/i3.png.webp" alt="" />
                 </div>
                 <div className="service-content">
-                  <h5>Building Renovation</h5>
+                  <h5>Renovación de Edificios</h5>
                   <p>
-                    You{`'`}re which creepeth were yielding kind, divide sixten
-                    po gatherin all first fill Seed wherein life. Years one
-                    fifth{" "}
+                  Modernizamos y optimizamos espacios con soluciones integrales que maximizan su valor y funcionalidad.
                   </p>
                 </div>
               </div>
@@ -67,11 +61,10 @@ const Services = (props: Props) => {
                   <Image width={82} height={82} src="/images/i4.png.webp" alt="" />
                 </div>
                 <div className="service-content">
-                  <h5>Building Maintenance</h5>
+                  <h5>Mantenimiento de Edificios</h5>
                   <p>
-                    You{`'`}re which creepeth were yielding kind, divide sixten
-                    po gatherin all first fill Seed wherein life. Years one
-                    fifth{" "}
+                  Aseguramos la durabilidad de tus estructuras con servicios de mantenimiento preventivo y correctivo.
+                  Si quieres que ajuste el tono o enfoque, dime y lo adaptamos. 🚀🏗️
                   </p>
                 </div>
               </div>

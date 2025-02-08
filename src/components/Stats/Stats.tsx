@@ -17,35 +17,33 @@ const Stats = (props: Props) => {
         <div className="col-md-7 col-lg-6">
           <div className="number-content">
             <h4>
-              Providing Personalized And <br />
-              High Quality Service .
+            Brindamos un Servicio Personalizado Y <br />
+            de Alta Calidad .
             </h4>
             <p>
-              Grass bearing make open multiply that may fly cattle gathering
-              be unto
-              <br /> void moving. Blessed one evening had them heaven
-              <br /> divide said heaven whose brought he. Give It fowl
-              green.
+            Nos especializamos en crear soluciones de construcción a medida, garantizando innovación, eficiencia y excelencia en cada proyecto.
+              <br /> Si deseas que lo adaptemos a un tono más técnico, comercial
+              <br /> o inspirador, dime y lo ajustamos. 🚀🏗️
             </p>
             <div className="number-wrapper">
               <div className="single-number">
                 <h5>
-                  <span className="counter">15</span>K+
+                  <span className="counter">15</span>
                 </h5>
-                <p>happy customer</p>
+                <p>Clientes Felices</p>
               </div>
               <div className="single-number">
                 <h5>
-                  <span className="counter">10</span>K+
+                  <span className="counter">30</span>
                 </h5>
-                <p>Project Done</p>
+                <p>Proyectos Echos</p>
               </div>
               <div className="single-number">
                 <h5>
                   <span className="counter">9</span>/
                   <span className="counter">10</span>
                 </h5>
-                <p>Average Rating</p>
+                <p>Porcentage de Aciertos</p>
               </div>
             </div>
           </div>
