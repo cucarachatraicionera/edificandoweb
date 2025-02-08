@@ -46,8 +46,8 @@ const Testimonials = (props: Props) => {
     <section className="testimonial-area area-padding">
         <div className="container">
           <div className="area-heading">
-            <h3 className="line">Customer reviews</h3>
-            <p>Together female let signs for for fish fowl may first.</p>
+            <h3 className="line">Quienes somos?</h3>
+            <p>Cada construcción refleja nuestro compromiso con la calidad, la innovación y la excelencia.</p>
           </div>
           <div className="row">
           <OwlCarousel

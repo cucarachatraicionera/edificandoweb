@@ -11,19 +11,19 @@ const Portfolio = ({ showHeading = true }: Props) => {
         <div className="container">
           
           {showHeading ? (<div className="area-heading">
-            <h3 className="line">Our Recent Project</h3>
-            <p>Together female let signs for for fish fowl may first.</p>
+            <h3 className="line">Nuestros Proyectos Recientes</h3>
+            <p>Construyendo calidad e innovación en cada detalle.</p>
           </div>) : null}
 
           <div className="filters portfolio-filter">
             <ul>
               <li className="active" data-filter="*">
-                all
+                Todo
               </li>
-              <li data-filter=".popular">buildings</li>
-              <li data-filter=".latest"> offices</li>
-              <li data-filter=".following">rebuild</li>
-              <li data-filter=".upcoming">architecture</li>
+              <li data-filter=".popular">construcciones</li>
+              <li data-filter=".latest"> interiores</li>
+              <li data-filter=".following">reconstruccion</li>
+              <li data-filter=".upcoming">arquitectura</li>
             </ul>
           </div>
           <div className="filters-content">
